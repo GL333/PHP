@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,7 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-<?php session_start(); ?>
+
 
 <form action="users.php" method="POST">
     User: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="username" id="">
@@ -20,6 +21,7 @@
 <?php
 if (!empty($_SESSION['username']))
     echo "Welcome back ".$_SESSION['username'];
+    unset($_SESSION['username']);
 ?>
 
 </body>
