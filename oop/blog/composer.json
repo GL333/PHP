@@ -1,0 +1,16 @@
+{
+    "name": "gl/blog",
+    "authors": [
+        {
+            "name": "GL333",
+            "email": "giedriusgl@yahoo.com"
+        }
+    ],
+    "require": {},
+
+    "autoload":{
+        "psr-4":{
+            "Models\\" : "src"
+        }
+    }
+}

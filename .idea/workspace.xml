@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cc43c8-c81e-401c-be44-a95ae50a24ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/7pamoka/send_data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8pamoka/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/blog/src/helpers/Page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7pamoka/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/7pamoka/index.php" afterDir="false" />
     </list>
@@ -15,25 +16,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7pamoka/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8pamoka/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="243">
+              <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="send_data.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="send_data.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7pamoka/send_data.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+            <state relative-caret-position="195">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="35" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$result</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,8 +75,10 @@
         <option value="$PROJECT_DIR$/6pamoka/register.php" />
         <option value="$PROJECT_DIR$/6pamoka/index.php" />
         <option value="$PROJECT_DIR$/6pamoka/login.php" />
-        <option value="$PROJECT_DIR$/7pamoka/index.php" />
         <option value="$PROJECT_DIR$/7pamoka/send_data.php" />
+        <option value="$PROJECT_DIR$/7pamoka/index.php" />
+        <option value="$PROJECT_DIR$/oop/blog/src/helpers/Page.php" />
+        <option value="$PROJECT_DIR$/8pamoka/index.php" />
       </list>
     </option>
   </component>
@@ -97,6 +121,16 @@
               <item name="php" type="b2602c69:ProjectViewProjectNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
               <item name="7pamoka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="8pamoka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,12 +187,14 @@
       <workItem from="1524814386101" duration="599000" />
       <workItem from="1525072265707" duration="17000" />
       <workItem from="1525072317402" duration="2848000" />
-      <workItem from="1525085069125" duration="6095000" />
+      <workItem from="1525085069125" duration="11217000" />
+      <workItem from="1525104202068" duration="195000" />
+      <workItem from="1525264874889" duration="3843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71301000" />
+    <option name="totallyTimeSpent" value="80461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,7 +209,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49949032" visible="true" weight="0.10074627" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49949032" visible="true" weight="0.102878466" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925585" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.36089385" />
@@ -182,7 +218,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925585" />
       <window_info id="Structure" order="1" sideWeight="0.5005097" side_tool="true" weight="0.18443497" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.2167043" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.21564245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -201,20 +237,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7pamoka/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6pamoka/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7pamoka/send_data.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -540,15 +562,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7pamoka/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="1080">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/blog/src/helpers/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7pamoka/send_data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        <state relative-caret-position="195">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8pamoka/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

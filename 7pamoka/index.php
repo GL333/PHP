@@ -36,7 +36,7 @@ $result = mysqli_query($connect, $query);
         <?php endwhile;?>
     </select>
     <input type="submit" name="Submit2" /><br/>
-</form>
+</form><br/>
 
 
 
