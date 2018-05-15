@@ -1,0 +1,9 @@
+{
+    "name": "gl/4pamoka",
+    "require": {},
+    "autoload":{
+        "classmap":[
+            "src/"
+        ]
+    }
+}
