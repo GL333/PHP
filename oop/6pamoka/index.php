@@ -1,5 +1,5 @@
 <?php
-require_once 'vendor/fzaninotto/faker/src/autoload.php';
+require_once 'vendor/autoload.php';
 
 function getDb(){
     $host = "localhost";
@@ -23,3 +23,8 @@ for($i=0;$i<1000;$i++ ){
     ]);
 
 }
+
+
+
+
+
